@@ -1,1 +1,4 @@
 # ReactFront
+```bash
+npm install
+```
